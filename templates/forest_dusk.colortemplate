@@ -1,8 +1,8 @@
 # vim: ft=colortemplate fdm=marker cc=22,40,58
 #let s:italics = get(g:, 'forest_night_use_italic', 1) && s:italics
 
-Full name:   Forest Night
-Short name:  forest_night
+Full name:   Forest Dusk
+Short name:  forest_dusk
 Author:      Sainnhepark <sainnhe@gmail.com>
 Maintainer:  Sainnhepark <sainnhe@gmail.com>
 Website:     https://github.com/sainnhe/vim-color-forest-night/
@@ -16,7 +16,7 @@ Include: _filetypes
 
 Background:  dark
 
-Include: _palette_night
+Include: _palette_dusk
 
 Include: _terminal
 
